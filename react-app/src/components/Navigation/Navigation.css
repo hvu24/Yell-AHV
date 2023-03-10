@@ -1,0 +1,42 @@
+.profile-dropdown {
+  position: absolute;
+  box-shadow:0 0 10px rgba(190, 190, 190, 0.7);
+  background-color: white;
+  margin-left: 30px;
+  border-radius: 20%;
+}
+
+.hidden {
+  display: none;
+}
+
+.home-button-container{
+  display: flex;
+  padding: 3px 3px 3px 10px;
+}
+
+.profile-button-container{
+  display: flex;
+  float: right;
+  margin-right:150px;
+  margin-top:20px
+}
+
+.demo-login-container {
+  float: right;
+  margin-top:20px
+}
+
+
+.search-bar-input{
+  overflow: auto;
+}
+
+.logo-container{
+  float: left;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  margin-right:30px
+}
+
